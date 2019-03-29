@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sounds>
+    <Sound>
+      <Id>
+        <TypeId>AudioDefinition</TypeId>
+        <SubtypeId>Transporter</SubtypeId>
+      </Id>
+      <Category>BLOCK</Category>
+      <MaxDistance>30</MaxDistance>
+      <Volume>1</Volume>
+	  <Loopable>false</Loopable>
+      <Waves>
+        <Wave Type="D3">
+          <Start>Audio\transporter-mono.xwm</Start>
+        </Wave>
+		<Wave Type="D2">
+          <Start>Audio\transporter-stereo.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+
+    <Sound>
+      <Id>
+        <TypeId>AudioDefinition</TypeId>
+        <SubtypeId>FailedTransport</SubtypeId>
+      </Id>
+      <Category>BLOCK</Category>
+      <MaxDistance>30</MaxDistance>
+      <Volume>1</Volume>
+	  <Loopable>false</Loopable>
+      <Waves>
+        <Wave Type="D3">
+          <Start>Audio\failedtransport-mono.xwm</Start>
+        </Wave>
+		<Wave Type="D2">
+          <Start>Audio\failedtransport-stereo.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+    </Sounds>
+</Definitions>
