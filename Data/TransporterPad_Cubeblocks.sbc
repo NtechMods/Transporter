@@ -6,25 +6,25 @@
     <ResearchBlock xsi:type="ResearchBlock">
       <Id Type="MyObjectBuilder_OreDetector" Subtype="Transporter" />
       <UnlockedByGroups>
-        <GroupSubtype>4</GroupSubtype>        
+        <GroupSubtype>26</GroupSubtype>        
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
       <Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingle" />
       <UnlockedByGroups>
-        <GroupSubtype>4</GroupSubtype>        
+        <GroupSubtype>26</GroupSubtype>        
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
       <Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingleLarge" />
       <UnlockedByGroups>
-        <GroupSubtype>4</GroupSubtype>        
+        <GroupSubtype>26</GroupSubtype>        
       </UnlockedByGroups>
     </ResearchBlock>
     <ResearchBlock xsi:type="ResearchBlock">
       <Id Type="MyObjectBuilder_OreDetector" Subtype="TransportJammer" />
       <UnlockedByGroups>
-        <GroupSubtype>4</GroupSubtype>        
+        <GroupSubtype>26</GroupSubtype>        
       </UnlockedByGroups>
     </ResearchBlock>
   </ResearchBlocks>
@@ -168,7 +168,7 @@
         <Component Subtype="SteelPlate" Count="30" />
         <Component Subtype="SmallTube" Count="40" />
         <Component Subtype="Computer" Count="50" />
-        <Component Subtype="RadioCommunication" Count="1" />
+        <Component Subtype="RadioCommunication" Count="5" />
         <Component Subtype="Construction" Count="20" />
         <Component Subtype="SteelPlate" Count="30" />
       </Components>
