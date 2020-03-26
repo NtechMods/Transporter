@@ -8,14 +8,11 @@
       </Id>
       <Category>BLOCK</Category>
       <MaxDistance>30</MaxDistance>
-      <Volume>1</Volume>
+      <Volume>0.6</Volume>
 	  <Loopable>false</Loopable>
       <Waves>
         <Wave Type="D3">
-          <Start>Audio\transporter-mono.xwm</Start>
-        </Wave>
-		<Wave Type="D2">
-          <Start>Audio\transporter-stereo.xwm</Start>
+          <Start>Audio\transporter-mono.wav</Start>
         </Wave>
       </Waves>
     </Sound>
@@ -31,7 +28,7 @@
 	  <Loopable>false</Loopable>
       <Waves>
         <Wave Type="D3">
-          <Start>Audio\failedtransport-mono.xwm</Start>
+          <Start>Audio\failedtransport-mono.wav</Start>
         </Wave>
 		<Wave Type="D2">
           <Start>Audio\failedtransport-stereo.xwm</Start>
