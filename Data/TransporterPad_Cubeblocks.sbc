@@ -22,25 +22,25 @@
 	<!--ResearchBlocks -->
 	<ResearchBlocks>
 		<ResearchBlock xsi:type="ResearchBlock">
-			<Id Type="MyObjectBuilder_Reactor" Subtype="Transporter" />
+			<Id Type="MyObjectBuilder_OreDetector" Subtype="Transporter" />
 			<UnlockedByGroups>
 				<GroupSubtype>4</GroupSubtype>
 			</UnlockedByGroups>
 		</ResearchBlock>
 		<ResearchBlock xsi:type="ResearchBlock">
-			<Id Type="MyObjectBuilder_Reactor" Subtype="TransporterSingle" />
+			<Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingle" />
 			<UnlockedByGroups>
 				<GroupSubtype>4</GroupSubtype>
 			</UnlockedByGroups>
 		</ResearchBlock>
 		<ResearchBlock xsi:type="ResearchBlock">
-			<Id Type="MyObjectBuilder_Reactor" Subtype="TransporterSingleLarge" />
+			<Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingleLarge" />
 			<UnlockedByGroups>
 				<GroupSubtype>4</GroupSubtype>
 			</UnlockedByGroups>
 		</ResearchBlock>
 		<ResearchBlock xsi:type="ResearchBlock">
-			<Id Type="MyObjectBuilder_Reactor" Subtype="TransportJammer" />
+			<Id Type="MyObjectBuilder_OreDetector" Subtype="TransportJammer" />
 			<UnlockedByGroups>
 				<GroupSubtype>4</GroupSubtype>
 			</UnlockedByGroups>
