@@ -24,29 +24,70 @@
 		<ResearchBlock xsi:type="ResearchBlock">
 			<Id Type="MyObjectBuilder_OreDetector" Subtype="Transporter" />
 			<UnlockedByGroups>
-				<GroupSubtype>4</GroupSubtype>
+				<GroupSubtype>26</GroupSubtype>
 			</UnlockedByGroups>
 		</ResearchBlock>
 		<ResearchBlock xsi:type="ResearchBlock">
 			<Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingle" />
 			<UnlockedByGroups>
-				<GroupSubtype>4</GroupSubtype>
+				<GroupSubtype>26</GroupSubtype>
 			</UnlockedByGroups>
 		</ResearchBlock>
 		<ResearchBlock xsi:type="ResearchBlock">
 			<Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingleLarge" />
 			<UnlockedByGroups>
-				<GroupSubtype>4</GroupSubtype>
+				<GroupSubtype>26</GroupSubtype>
 			</UnlockedByGroups>
 		</ResearchBlock>
 		<ResearchBlock xsi:type="ResearchBlock">
 			<Id Type="MyObjectBuilder_OreDetector" Subtype="TransportJammer" />
 			<UnlockedByGroups>
-				<GroupSubtype>4</GroupSubtype>
+				<GroupSubtype>26</GroupSubtype>
 			</UnlockedByGroups>
 		</ResearchBlock>
 	</ResearchBlocks>	
-
+	
+	
+  <CategoryClasses>
+    <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+        <SubtypeId/>
+      </Id>
+      <DisplayName>DisplayName_Category_LargeBlocks</DisplayName>
+      <Name>LargeBlocks</Name>
+      <ItemIds>
+		<string>Transporter</string>
+        <string>TransporterSingleLarge</string>
+        <string>TransportJammer</string>
+      </ItemIds>
+    </Category>
+    <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+        <SubtypeId/>
+      </Id>
+      <DisplayName>DisplayName_Category_SmallBlocks</DisplayName>
+      <Name>SmallBlocks</Name>
+      <ItemIds>
+        <string>TransporterSingle</string>
+      </ItemIds>
+    </Category>
+    <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+        <SubtypeId/>
+      </Id>
+      <DisplayName>Ntech</DisplayName>
+      <Name>Ntech</Name>
+      <ItemIds>
+		<string>Transporter</string>
+        <string>TransporterSingleLarge</string>
+        <string>TransportJammer</string>
+        <string>TransporterSingle</string>
+      </ItemIds>
+    </Category>
+  </CategoryClasses>
 
 	<CubeBlocks>
 
