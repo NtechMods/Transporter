@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlockVariantGroups>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="MolecularTransportersGroup" />
+            <Icon>Textures\GUI\Icons\TransporterPadSingle.dds</Icon>
+            <DisplayName>Transporter Pad Single</DisplayName>
+	    <Description>Transporters and Jummer</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingleLarge" />
+                <Block Type="MyObjectBuilder_OreDetector" Subtype="Transporter" />
+                <Block Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingle" />
+                <Block Type="MyObjectBuilder_OreDetector" Subtype="TransportJammer" />
+            </Blocks>
+        </BlockVariantGroup>
+
+    </BlockVariantGroups>
+</Definitions>

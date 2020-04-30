@@ -24,7 +24,7 @@
       </Id>
       <Category>BLOCK</Category>
       <MaxDistance>30</MaxDistance>
-      <Volume>0.6</Volume>
+      <Volume>1</Volume>
 	  <Loopable>false</Loopable>
       <Waves>
         <Wave Type="D3">

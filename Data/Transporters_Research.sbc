@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+<!--ResearchBlocks -->
+<ResearchBlocks>
+	<ResearchBlock xsi:type="ResearchBlock">
+		<Id Type="MyObjectBuilder_OreDetector" Subtype="Transporter" />
+		<UnlockedByGroups>
+			<GroupSubtype>26</GroupSubtype>
+		</UnlockedByGroups>
+	</ResearchBlock>
+	<ResearchBlock xsi:type="ResearchBlock">
+		<Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingle" />
+		<UnlockedByGroups>
+			<GroupSubtype>26</GroupSubtype>
+		</UnlockedByGroups>
+	</ResearchBlock>
+	<ResearchBlock xsi:type="ResearchBlock">
+		<Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingleLarge" />
+		<UnlockedByGroups>
+			<GroupSubtype>26</GroupSubtype>
+		</UnlockedByGroups>
+	</ResearchBlock>
+	<ResearchBlock xsi:type="ResearchBlock">
+		<Id Type="MyObjectBuilder_OreDetector" Subtype="TransportJammer" />
+		<UnlockedByGroups>
+			<GroupSubtype>26</GroupSubtype>
+		</UnlockedByGroups>
+	</ResearchBlock>
+</ResearchBlocks>
+
+</Definitions>

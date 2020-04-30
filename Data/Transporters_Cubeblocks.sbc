@@ -38,9 +38,10 @@
       <BlockPairName>MolecularTransportation</BlockPairName>
       <EdgeType>Light</EdgeType>
       <PrimarySound>Transporter</PrimarySound>
-      <BuildTimeSeconds>45</BuildTimeSeconds>
+      <BuildTimeSeconds>90</BuildTimeSeconds>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
+      <PCU>600</PCU>
     </Definition>
     
     <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
@@ -79,6 +80,7 @@
       <BuildTimeSeconds>45</BuildTimeSeconds>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
+      <PCU>300</PCU>
     </Definition>
 
     <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
@@ -117,6 +119,7 @@
       <BuildTimeSeconds>45</BuildTimeSeconds>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
+      <PCU>300</PCU>
     </Definition>
 	
 	<Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
@@ -155,6 +158,7 @@
       <BuildTimeSeconds>45</BuildTimeSeconds>
       <DamageEffectId>214</DamageEffectId>
       <DamagedSound>ParticleElectrical</DamagedSound>
+      <PCU>400</PCU>
     </Definition>
 	
    </CubeBlocks>

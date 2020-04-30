@@ -124,7 +124,7 @@
               <Keys>
                 <Key>
                   <Time>0</Time>
-                  <ValueFloat>50</ValueFloat> <!-- size of emitter, think of torus like, torus thickness -->
+                  <ValueFloat>5</ValueFloat> <!-- size of emitter, think of torus like, torus thickness -->
                 </Key>
               </Keys>
             </Property>
