@@ -4,25 +4,25 @@
 <!--ResearchBlocks -->
 <ResearchBlocks>
 	<ResearchBlock xsi:type="ResearchBlock">
-		<Id Type="MyObjectBuilder_ConveyorSorter" Subtype="Transporter" />
+		<Id Type="MyObjectBuilder_OreDetector" Subtype="Transporter" />
 		<UnlockedByGroups>
 			<GroupSubtype>26</GroupSubtype>
 		</UnlockedByGroups>
 	</ResearchBlock>
 	<ResearchBlock xsi:type="ResearchBlock">
-		<Id Type="MyObjectBuilder_ConveyorSorter" Subtype="TransporterSingle" />
+		<Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingle" />
 		<UnlockedByGroups>
 			<GroupSubtype>26</GroupSubtype>
 		</UnlockedByGroups>
 	</ResearchBlock>
 	<ResearchBlock xsi:type="ResearchBlock">
-		<Id Type="MyObjectBuilder_ConveyorSorter" Subtype="TransporterSingleLarge" />
+		<Id Type="MyObjectBuilder_OreDetector" Subtype="TransporterSingleLarge" />
 		<UnlockedByGroups>
 			<GroupSubtype>26</GroupSubtype>
 		</UnlockedByGroups>
 	</ResearchBlock>
 	<ResearchBlock xsi:type="ResearchBlock">
-		<Id Type="MyObjectBuilder_ConveyorSorter" Subtype="TransportJammer" />
+		<Id Type="MyObjectBuilder_OreDetector" Subtype="TransportJammer" />
 		<UnlockedByGroups>
 			<GroupSubtype>26</GroupSubtype>
 		</UnlockedByGroups>

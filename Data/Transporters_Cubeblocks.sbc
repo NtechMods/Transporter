@@ -2,9 +2,9 @@
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CubeBlocks>
 
-    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+    <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
       <Id>
-        <TypeId>ConveyorSorter</TypeId>
+        <TypeId>OreDetector</TypeId>
         <SubtypeId>Transporter</SubtypeId>
       </Id>
       <DisplayName>Transporter Pad</DisplayName>
@@ -44,9 +44,9 @@
       <PCU>600</PCU>
     </Definition>
     
-    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+    <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
       <Id>
-        <TypeId>ConveyorSorter</TypeId>
+        <TypeId>OreDetector</TypeId>
         <SubtypeId>TransporterSingle</SubtypeId>
       </Id>
       <DisplayName>Transporter Pad Single</DisplayName>
@@ -83,9 +83,9 @@
       <PCU>300</PCU>
     </Definition>
 
-    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+    <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
       <Id>
-        <TypeId>ConveyorSorter</TypeId>
+        <TypeId>OreDetector</TypeId>
         <SubtypeId>TransporterSingleLarge</SubtypeId>
       </Id>
       <DisplayName>Transporter Pad Single</DisplayName>
@@ -122,9 +122,9 @@
       <PCU>300</PCU>
     </Definition>
 	
-	<Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+	<Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
       <Id>
-        <TypeId>ConveyorSorter</TypeId>
+        <TypeId>OreDetector</TypeId>
         <SubtypeId>TransportJammer</SubtypeId>
       </Id>
       <DisplayName>Transport Jammer</DisplayName>
